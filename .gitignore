@@ -7,7 +7,7 @@
 *.out
 *.toc
 *.gz
-*.pdf
+# *.pdf
 
 ## Intermediate documents:
 *.dvi
@@ -126,3 +126,6 @@ sympy-plots-for-*.tex/
 # WinEdt
 *.bak
 *.sav
+
+# emacs
+auto/
